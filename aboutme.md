@@ -4,10 +4,10 @@ title: About me
 subtitle: Why you'd want to go on a date with me
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+My name is Kunsu OH. I have the following qualities:
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+- I am a Ph.D. in Heavy Ion Experimental Physics. (I am a STAR scientist!)
+- I am a data scientist in Woorien now.
 
 What else do you need?
 
