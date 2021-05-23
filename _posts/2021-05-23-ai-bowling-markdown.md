@@ -1,10 +1,10 @@
 ---
 layout: post
 title: AI Bowling
-subtitle: Each post also has a subtitle
+subtitle: Detect ball and draw trajectory
 gh-repo: daattali/beautiful-jekyll
 gh-badge: [star, fork, follow]
-tags: [test]
+tags: [bowling, object detection, smoothing]
 comments: true
 ---
 
