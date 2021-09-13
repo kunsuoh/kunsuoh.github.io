@@ -15,8 +15,7 @@ author: Kunsu OH
 
 navbar-links:
   About Me: "aboutme"
-  Discussion:
-    - github: "https://github.com/sport-ai-lab/bbs/discussions/categories/a-ideas"
+  Discussion: "https://github.com/sport-ai-lab/bbs/discussions/categories/a-ideas"
     
     #   Resources:
 #     - Beautiful Jekyll: "https://beautifuljekyll.com"
