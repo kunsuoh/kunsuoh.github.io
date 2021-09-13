@@ -15,8 +15,10 @@ author: Kunsu OH
 
 navbar-links:
   About Me: "aboutme"
-  Discussion: "discussion"
-#   Resources:
+  Discussion:
+    - github: "https://github.com/sport-ai-lab/bbs/discussions/categories/a-ideas"
+    
+    #   Resources:
 #     - Beautiful Jekyll: "https://beautifuljekyll.com"
 #     - Learn markdown: "https://www.markdowntutorial.com/"
 #   Author's home: "https://deanattali.com"
